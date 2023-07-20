@@ -1,8 +1,7 @@
 Web-Development
 Following Dr. Angela Yu.
 
-React
-->All the react related projects are in this folder
+
 ⭐️Todo List (react)
 ->A simple Todo-List🔥
 ->Skills: React, HTML, CSS, Bootstrap
@@ -41,6 +40,6 @@ React
 ->Skills: HTML, CSS, Bootstrap, JavaScript, Express, EJS, Mongoose-Atlis, Heroku
 
 
-CSS-My-Site
+⭐️CSS-My-Site
 ->About me! 👤
 ->Skills: HTML, CSS
